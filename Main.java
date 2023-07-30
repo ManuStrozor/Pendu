@@ -72,7 +72,7 @@ public class Main {
         sc.nextLine();
 
         do {
-
+            // on reinitialise les variables
             lettresJouees = "";
             motCache = "";
             nbCoups = 0;
@@ -94,7 +94,11 @@ public class Main {
 
             // On cache le mot
             for (int i = 0; i < mot.length(); i++) {
-                motCache += "_";
+                if (mot.charAt(i) == ' ') {
+                    motCache += " ";
+                } else {
+                    motCache += "_";
+                }
             }
 
             // On demande à l'utilisateur de saisir une lettre

@@ -1,149 +1,149 @@
-    abri
-    aile
-    air
-    ami
-    amour
-    ananas
-    arbre
-    argent
-    art
-    assis
-    avion
-    ballon
-    banane
-    bateau
-    beau
-    blanc
-    bleu
-    bois
-    bon
-    botte
-    bouche
-    bouton
-    bruit
-    brun
-    bulle
-    cadeau
-    cage
-    caillou
-    casser
-    cerise
-    chat
-    chaud
-    cher
-    cheveu
-    chien
-    chou
-    clair
-    coeur
-    coller
-    compter
-    corps
-    courir
-    court
-    crabe
-    craindre
-    croix
-    cuire
-    curieux
-    danser
-    dehors
-    derriere
-    dessous
-    dessus
-    deux
-    doigt
-    droit
-    dur
-    ecrire
-    eau
-    etoile
-    ete
-    faire
-    fenetre
-    fermer
-    feu
-    feuille
-    fil
-    fin
-    froid
-    fruit
-    gagner
-    glace
-    gros
-    heure
-    hier
-    histoire
-    hiver
-    honnete
-    image
-    jambon
-    jaune
-    jouer
-    jour
-    laine
-    lait
-    lettre
-    lit
-    loin
-    long
-    lourd
-    maigre
-    main
-    maison
-    mal
-    marcher
-    matin
-    mer
-    miel
-    mince
-    monde
-    montrer
-    mort
-    neige
-    noir
-    nombre
-    nuage
-    oeil
-    oeuf
-    oiseau
-    orange
-    oreille
-    pain
-    paix
-    papier
-    parfum
-    partout
-    passer
-    petit
-    peu
-    peur
-    pied
-    pierre
-    plat
-    plein
-    pluie
-    poisson
-    porte
-    poule
-    prendre
-    pres
-    prince
-    printemps
-    propre
-    quart
-    question
-    rapide
-    rentrer
-    rester
-    rire
-    rouge
-    rond
-    roux
-    sale
-    sauter
-    secret
-    siffler
-    simple
-    soleil
-    sourire
+zygomatique
+xylophone
+hydrophobe
+amphibie
+polycarbonate
+apocryphe
+homeostasie
+magnanimite
+chromatographie
+juxtaposition
+keratolytique
+macroeconomie
+nephrologie
+oligarchie
+paronyme
+quintessence
+remission
+sismologie
+tautomerie
+ubiquite
+vaticination
+wahhabisme
+xanthelasma
+zoroastrisme
+abdomen
+biophysique
+caryotype
+dysfonctionnement
+electromagnetisme
+fibrillation
+gastroenterologue
+hydrocephalie
+immunotherapie
+jonction
+keratinisation
+lithosphere
+mitochondrie
+nevralgie
+osteoporose
+pneumothorax
+quadriceps
+reticulum
+subduction
+thrombocyte
+urethroscope
+valvulopathie
+wurtzite
+xenotransplantation
+yersiniose
+zoonose
+agglutinogene
+bouquiniste
+cimaise
+deculpabiliser
+eglogue
+fantasmagorie
+glyptographie
+hegemonie
+iconolatrie
+javelliser
+kleptomane
+lepidoptere
+melancolique
+nomenclature
+occipital
+pericliter
+quinquagenaire
+rectificateur
+serologie
+thalamus
+urticacee
+vexillaire
+wallingant
+xenophobe
+yogique
+zinzolin
+affreteur
+bogomile
+colisa
+degingande
+egrotant
+fabophile
+gnoseologie
+hematome
+ichtyophagie
+janthine
+kainogenese
+lipotrope
+mithridatiser
+narcoleptique
+oligophrene
+pangermaniste
+quebecoiser
+radiolithe
+syzygie
+tabanide
+uranologie
+vaccinostyle
+wallingant
+xerantheme
+yachtwoman
+zambien
+anarchosyndicaliste
+baptisteenne
+chiendent
+deletere
+erysipele
+funambule
+gynecee
+halogenure
+iatrogene
+jalonnement
+kymographe
+leucoplasie
+mammalogie
+nevralgique
+onirisme
+palynologie
+quebrachitol
+rhetoricienne
+scapulalgie
+thylakoide
+urochorde
+velifere
+willemite
+xenelasia
+yersinien
+zambien
+aeroportuaire
+bibliographie
+codicologie
+dendrochronologie
+epistemologie
+fructidor
+geomorphologie
+heliocentrisme
+iconographie
+jupiterien
+kinesiologie
+lepidopterologie
+metallographie
+neurophysiologie
+oenologie
+paleontologie
+quaternaire
+radiobiologie
+sismologie
+telemecanique
+ultrasonique

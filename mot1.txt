@@ -1,149 +1,150 @@
-    abri
-    aile
-    air
-    ami
-    amour
-    ananas
-    arbre
-    argent
-    art
-    assis
-    avion
-    ballon
-    banane
-    bateau
-    beau
-    blanc
-    bleu
-    bois
-    bon
-    botte
-    bouche
-    bouton
-    bruit
-    brun
-    bulle
-    cadeau
-    cage
-    caillou
-    casser
-    cerise
-    chat
-    chaud
-    cher
-    cheveu
-    chien
-    chou
-    clair
-    coeur
-    coller
-    compter
-    corps
-    courir
-    court
-    crabe
-    craindre
-    croix
-    cuire
-    curieux
-    danser
-    dehors
-    derriere
-    dessous
-    dessus
-    deux
-    doigt
-    droit
-    dur
-    ecrire
-    eau
-    etoile
-    ete
-    faire
-    fenetre
-    fermer
-    feu
-    feuille
-    fil
-    fin
-    froid
-    fruit
-    gagner
-    glace
-    gros
-    heure
-    hier
-    histoire
-    hiver
-    honnete
-    image
-    jambon
-    jaune
-    jouer
-    jour
-    laine
-    lait
-    lettre
-    lit
-    loin
-    long
-    lourd
-    maigre
-    main
-    maison
-    mal
-    marcher
-    matin
-    mer
-    miel
-    mince
-    monde
-    montrer
-    mort
-    neige
-    noir
-    nombre
-    nuage
-    oeil
-    oeuf
-    oiseau
-    orange
-    oreille
-    pain
-    paix
-    papier
-    parfum
-    partout
-    passer
-    petit
-    peu
-    peur
-    pied
-    pierre
-    plat
-    plein
-    pluie
-    poisson
-    porte
-    poule
-    prendre
-    pres
-    prince
-    printemps
-    propre
-    quart
-    question
-    rapide
-    rentrer
-    rester
-    rire
-    rouge
-    rond
-    roux
-    sale
-    sauter
-    secret
-    siffler
-    simple
-    soleil
-    sourire
+eau
+chat
+main
+livre
+arbre
+sac
+souris
+chien
+sol
+cheveux
+nez
+feu
+mer
+lit
+pied
+oeil
+vent
+bois
+pain
+bouche
+rouge
+ciel
+mur
+voiture
+fer
+chaton
+fleur
+porte
+toit
+verre
+plage
+roche
+montre
+cheval
+maison
+livre
+montagne
+araignee
+fleuve
+soleil
+fruit
+chemin
+riviere
+train
+feuille
+telephone
+lac
+stylo
+plage
+avion
+feuille
+nuage
+grenouille
+valise
+etoile
+television
+poisson
+terre
+telephone
+ecole
+cheminee
+eglise
+tasse
+crayon
+sourire
+lunettes
+velo
+gâteau
+souris
+neige
+telephone
+fleuriste
+pingouin
+tigre
+dauphin
+poulet
+girafe
+zebre
+camion
+ping pong
+serpent
+drapeau
+piano
+guitare
+tambour
+arc en ciel
+etoile
+miroir
+tournesol
+mouton
+escargot
+oiseau
+papillon
+elephant
+lion
+crocodile
+tortue
+kangourou
+rhinoceros
+autruche
+dinosaure
+chameau
+requin
+panda
+koala
+castor
+hibou
+chouette
+cerf
+loup
+renard
+loutre
+gorille
+kangourou
+ours
+chimpanze
+elephant
+tigre
+lion
+guepard
+panthere
+singe
+leopard
+crocodile
+rhinoceros
+hippopotame
+girafe
+zebre
+autruche
+fourmi
+coccinelle
+papillon
+sauterelle
+criquet
+luciole
+scarabee
+abeille
+libellule
+chenille
+araignee
+moustique
+scorpion
+cafard
+araignee
+limace
+meduse
+requin
+pieuvre
+mer
+corail
